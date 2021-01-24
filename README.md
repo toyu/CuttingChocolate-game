@@ -1,1 +1,2 @@
 # CuttingChocolate-game
+チョコレートから様々な形の型でできるだけ多くくり抜くゲーム
